@@ -146,13 +146,14 @@ a:hover{
     text-align: center;
     margin-bottom: 40px;
 }
-
-#getintouch{
-    text-align: center;
-}
-.lanlist{
+.lanlist li{
     text-align: center;
     font-size: 30px;
     color: darkslateblue;
     margin: 100px 0px;
+}
+
+
+#getintouch{
+    text-align: center;
 }
