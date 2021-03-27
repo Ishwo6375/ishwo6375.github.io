@@ -106,7 +106,10 @@ a{
 }
 a:hover{
     color:black;
-    display: flex;
-    justify-content: flex-start;
+   
+}
+.iframe{
+     display:inline-block;
+    justify-content: center;
     align-items: center;
 }
