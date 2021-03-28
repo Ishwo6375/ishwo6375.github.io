@@ -50,7 +50,10 @@ body{
     background-color: black ;
     width: 50%;
     text-align: right;
-    padding: 30px;
+    padding: 50px;
+    border: 2px solid black;
+    border-radius: 3px;
+
     
 }
 img{
@@ -150,10 +153,23 @@ a:hover{
     text-align: center;
     font-size: 30px;
     color: darkslateblue;
-    margin: 100px 0px;
+    margin: 50px 0px;
 }
 
 
 #getintouch{
     text-align: center;
+}
+
+.img2{
+    border-radius: 0px;
+    border: none;
+  margin: 100px 800px;
+  width: 80px;
+}
+#iframe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 40px;
 }
